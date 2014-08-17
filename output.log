@@ -1,0 +1,60 @@
+INFO:root:Writing Spam:Eggs to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet Spam:Eggs to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing Parser
+2014-08-17 14:03:47,050 INFO Starting snippets
+2014-08-17 14:03:47,050 INFO Constructing Parser
+2014-08-17 14:07:11,732 INFO Starting snippets
+2014-08-17 14:07:11,732 INFO Constructing Parser
+2014-08-17 14:07:36,837 INFO Starting snippets
+2014-08-17 14:07:36,837 INFO Constructing Parser
+2014-08-17 14:07:39,176 INFO Starting snippets
+2014-08-17 14:07:39,176 INFO Constructing Parser
+2014-08-17 14:11:20,800 INFO Starting snippets
+2014-08-17 14:11:20,800 INFO Constructing Parser
+2014-08-17 14:12:32,181 INFO Starting snippets
+2014-08-17 14:12:32,181 INFO Constructing Parser
+2014-08-17 14:12:32,182 DEBUG Constructing put subparser
+2014-08-17 14:12:34,448 INFO Starting snippets
+2014-08-17 14:12:34,448 INFO Constructing Parser
+2014-08-17 14:12:34,449 DEBUG Constructing put subparser
+2014-08-17 14:12:54,491 INFO Starting snippets
+2014-08-17 14:12:54,491 INFO Constructing Parser
+2014-08-17 14:12:54,492 DEBUG Constructing put subparser
+2014-08-17 14:14:05,170 INFO Starting snippets
+2014-08-17 14:14:05,170 INFO Constructing Parser
+2014-08-17 14:14:05,171 DEBUG Constructing put subparser
+2014-08-17 14:14:19,091 INFO Starting snippets
+2014-08-17 14:14:19,091 INFO Constructing Parser
+2014-08-17 14:14:19,092 DEBUG Constructing put subparser
+2014-08-17 14:15:37,705 INFO Starting snippets
+2014-08-17 14:15:37,705 INFO Constructing Parser
+2014-08-17 14:15:37,706 DEBUG Constructing put subparser
+2014-08-17 14:21:49,343 INFO Starting snippets
+2014-08-17 14:21:49,343 INFO Constructing Parser
+2014-08-17 14:21:49,344 DEBUG Constructing put subparser
+2014-08-17 14:24:05,953 INFO Starting snippets
+2014-08-17 14:24:05,953 INFO Constructing Parser
+2014-08-17 14:24:05,953 DEBUG Constructing put subparser
+2014-08-17 14:26:21,206 INFO Starting snippets
+2014-08-17 14:26:21,206 INFO Constructing Parser
+2014-08-17 14:26:21,206 DEBUG Constructing put subparser
+2014-08-17 14:26:31,570 INFO Starting snippets
+2014-08-17 14:26:31,570 INFO Constructing Parser
+2014-08-17 14:26:31,571 DEBUG Constructing put subparser
+2014-08-17 14:30:25,907 INFO Starting snippets
+2014-08-17 14:30:25,907 INFO Constructing Parser
+2014-08-17 14:30:25,908 DEBUG Constructing put subparser
+2014-08-17 14:30:25,908 INFO Writing morespam:eggs to optional.csv
+2014-08-17 14:30:25,908 DEBUG Opening file
+2014-08-17 14:30:25,909 DEBUG Writing snippet morespam:eggs to file
+2014-08-17 14:30:25,919 DEBUG Write successful
+2014-08-17 14:31:21,970 INFO Starting snippets
+2014-08-17 14:31:21,970 INFO Constructing Parser
+2014-08-17 14:31:21,971 DEBUG Constructing put subparser
+2014-08-17 14:31:21,972 INFO Writing bacon:eggsmmm to snippets.csv
+2014-08-17 14:31:21,972 DEBUG Opening file
+2014-08-17 14:31:21,972 DEBUG Writing snippet bacon:eggsmmm to file
+2014-08-17 14:31:21,974 DEBUG Write successful
