@@ -58,3 +58,175 @@ INFO:root:Constructing Parser
 2014-08-17 14:31:21,972 DEBUG Opening file
 2014-08-17 14:31:21,972 DEBUG Writing snippet bacon:eggsmmm to file
 2014-08-17 14:31:21,974 DEBUG Write successful
+2014-08-17 15:30:00,044 INFO Starting snippets
+2014-08-17 15:30:00,044 INFO Constructing Parser
+2014-08-17 15:30:00,045 DEBUG Constructing put subparser
+2014-08-17 15:30:00,046 DEBUG Constructing get subparser
+2014-08-17 15:30:13,324 INFO Starting snippets
+2014-08-17 15:30:13,324 INFO Constructing Parser
+2014-08-17 15:30:13,324 DEBUG Constructing put subparser
+2014-08-17 15:30:13,325 DEBUG Constructing get subparser
+2014-08-17 15:30:18,716 INFO Starting snippets
+2014-08-17 15:30:18,716 INFO Constructing Parser
+2014-08-17 15:30:18,717 DEBUG Constructing put subparser
+2014-08-17 15:30:18,718 DEBUG Constructing get subparser
+2014-08-17 15:46:47,036 INFO Starting snippets
+2014-08-17 15:46:47,036 INFO Constructing Parser
+2014-08-17 15:46:47,037 DEBUG Constructing put subparser
+2014-08-17 15:46:47,037 DEBUG Constructing get subparser
+2014-08-17 15:47:09,792 INFO Starting snippets
+2014-08-17 15:47:09,794 INFO Constructing Parser
+2014-08-17 15:47:09,795 DEBUG Constructing put subparser
+2014-08-17 15:47:09,795 DEBUG Constructing get subparser
+2014-08-17 15:48:31,397 INFO Starting snippets
+2014-08-17 15:48:31,397 INFO Constructing Parser
+2014-08-17 15:48:31,398 DEBUG Constructing put subparser
+2014-08-17 15:48:31,398 DEBUG Constructing get subparser
+2014-08-17 15:48:31,400 INFO Searching Tyrese from data.csv
+2014-08-17 15:49:19,630 INFO Starting snippets
+2014-08-17 15:49:19,635 INFO Constructing Parser
+2014-08-17 15:49:19,636 DEBUG Constructing put subparser
+2014-08-17 15:49:19,637 DEBUG Constructing get subparser
+2014-08-17 15:49:56,308 INFO Starting snippets
+2014-08-17 15:49:56,309 INFO Constructing Parser
+2014-08-17 15:49:56,310 DEBUG Constructing put subparser
+2014-08-17 15:49:56,311 DEBUG Constructing get subparser
+2014-08-17 15:49:56,317 INFO Searching Tyrese from data.csv
+2014-08-17 15:50:52,462 INFO Starting snippets
+2014-08-17 15:50:52,463 INFO Constructing Parser
+2014-08-17 15:50:52,464 DEBUG Constructing put subparser
+2014-08-17 15:50:52,469 DEBUG Constructing get subparser
+2014-08-17 15:50:52,470 INFO Searching Tyrese from data.csv
+2014-08-17 15:51:16,814 INFO Starting snippets
+2014-08-17 15:51:16,815 INFO Constructing Parser
+2014-08-17 15:51:16,816 DEBUG Constructing put subparser
+2014-08-17 15:51:16,820 DEBUG Constructing get subparser
+2014-08-17 15:51:16,820 INFO Searching Tyrese from data.csv
+2014-08-17 15:51:39,272 INFO Starting snippets
+2014-08-17 15:51:39,272 INFO Constructing Parser
+2014-08-17 15:51:39,277 DEBUG Constructing put subparser
+2014-08-17 15:51:39,279 DEBUG Constructing get subparser
+2014-08-17 15:51:39,280 INFO Searching Tyrese from data.csv
+2014-08-17 15:52:17,638 INFO Starting snippets
+2014-08-17 15:52:17,638 INFO Constructing Parser
+2014-08-17 15:52:17,639 DEBUG Constructing put subparser
+2014-08-17 15:52:17,640 DEBUG Constructing get subparser
+2014-08-17 15:52:17,641 INFO Searching Tyrese from data.csv
+2014-08-17 15:52:59,468 INFO Starting snippets
+2014-08-17 15:52:59,468 INFO Constructing Parser
+2014-08-17 15:52:59,469 DEBUG Constructing put subparser
+2014-08-17 15:52:59,469 DEBUG Constructing get subparser
+2014-08-17 15:52:59,471 INFO Searching Tyrese from data.csv
+2014-08-17 15:53:46,122 INFO Starting snippets
+2014-08-17 15:53:46,122 INFO Constructing Parser
+2014-08-17 15:53:46,123 DEBUG Constructing put subparser
+2014-08-17 15:53:46,123 DEBUG Constructing get subparser
+2014-08-17 15:53:46,125 INFO Searching Tyrese from data.csv
+2014-08-17 15:54:07,960 INFO Starting snippets
+2014-08-17 15:54:07,960 INFO Constructing Parser
+2014-08-17 15:54:07,961 DEBUG Constructing put subparser
+2014-08-17 15:54:07,967 DEBUG Constructing get subparser
+2014-08-17 15:54:07,968 INFO Searching Tyrese from data.csv
+2014-08-17 15:55:42,165 INFO Starting snippets
+2014-08-17 15:55:42,168 INFO Constructing Parser
+2014-08-17 15:55:42,169 DEBUG Constructing put subparser
+2014-08-17 15:55:42,169 DEBUG Constructing get subparser
+2014-08-17 15:55:42,170 INFO Searching Tyrese from data.csv
+2014-08-17 15:56:03,666 INFO Starting snippets
+2014-08-17 15:56:03,671 INFO Constructing Parser
+2014-08-17 15:56:03,672 DEBUG Constructing put subparser
+2014-08-17 15:56:03,673 DEBUG Constructing get subparser
+2014-08-17 15:56:03,673 INFO Searching Tyrese from data.csv
+2014-08-17 15:56:10,049 INFO Starting snippets
+2014-08-17 15:56:10,051 INFO Constructing Parser
+2014-08-17 15:56:10,052 DEBUG Constructing put subparser
+2014-08-17 15:56:10,052 DEBUG Constructing get subparser
+2014-08-17 15:56:10,053 INFO Searching sTyrese from data.csv
+2014-08-17 15:57:33,155 INFO Starting snippets
+2014-08-17 15:57:33,160 INFO Constructing Parser
+2014-08-17 15:57:33,161 DEBUG Constructing put subparser
+2014-08-17 15:57:33,161 DEBUG Constructing get subparser
+2014-08-17 15:57:33,162 INFO Searching sTyrese from data.csv
+2014-08-17 15:57:38,511 INFO Starting snippets
+2014-08-17 15:57:38,515 INFO Constructing Parser
+2014-08-17 15:57:38,517 DEBUG Constructing put subparser
+2014-08-17 15:57:38,517 DEBUG Constructing get subparser
+2014-08-17 15:57:38,522 INFO Searching Tyrese from data.csv
+2014-08-17 15:58:33,923 INFO Starting snippets
+2014-08-17 15:58:33,925 INFO Constructing Parser
+2014-08-17 15:58:33,926 DEBUG Constructing put subparser
+2014-08-17 15:58:33,927 DEBUG Constructing get subparser
+2014-08-17 15:58:39,061 INFO Starting snippets
+2014-08-17 15:58:39,063 INFO Constructing Parser
+2014-08-17 15:58:39,064 DEBUG Constructing put subparser
+2014-08-17 15:58:39,066 DEBUG Constructing get subparser
+2014-08-17 15:58:44,063 INFO Starting snippets
+2014-08-17 15:58:44,064 INFO Constructing Parser
+2014-08-17 15:58:44,065 DEBUG Constructing put subparser
+2014-08-17 15:58:44,068 DEBUG Constructing get subparser
+2014-08-17 15:58:59,611 INFO Starting snippets
+2014-08-17 15:58:59,612 INFO Constructing Parser
+2014-08-17 15:58:59,612 DEBUG Constructing put subparser
+2014-08-17 15:58:59,613 DEBUG Constructing get subparser
+2014-08-17 15:58:59,614 INFO Writing testsnip:Today is Sunday to snippets.csv
+2014-08-17 15:58:59,614 DEBUG Opening file
+2014-08-17 15:58:59,614 DEBUG Writing snippet testsnip:Today is Sunday to file
+2014-08-17 15:58:59,614 DEBUG Write successful
+2014-08-17 15:59:29,064 INFO Starting snippets
+2014-08-17 15:59:29,064 INFO Constructing Parser
+2014-08-17 15:59:29,065 DEBUG Constructing put subparser
+2014-08-17 15:59:29,066 DEBUG Constructing get subparser
+2014-08-17 15:59:29,066 INFO Searching testsnip from snippets.csv
+2014-08-17 16:00:20,845 INFO Starting snippets
+2014-08-17 16:00:20,846 INFO Constructing Parser
+2014-08-17 16:00:20,846 DEBUG Constructing put subparser
+2014-08-17 16:00:20,847 DEBUG Constructing get subparser
+2014-08-17 16:00:20,847 INFO Searching testsnip from snippets.csv
+2014-08-17 16:00:47,475 INFO Starting snippets
+2014-08-17 16:00:47,476 INFO Constructing Parser
+2014-08-17 16:00:47,477 DEBUG Constructing put subparser
+2014-08-17 16:00:47,478 DEBUG Constructing get subparser
+2014-08-17 16:00:47,479 INFO Searching testsnip from snippets.csv
+2014-08-17 16:00:52,102 INFO Starting snippets
+2014-08-17 16:00:52,108 INFO Constructing Parser
+2014-08-17 16:00:52,109 DEBUG Constructing put subparser
+2014-08-17 16:00:52,109 DEBUG Constructing get subparser
+2014-08-17 16:00:52,110 INFO Searching tss from snippets.csv
+2014-08-17 16:02:41,355 INFO Starting snippets
+2014-08-17 16:02:41,359 INFO Constructing Parser
+2014-08-17 16:02:41,360 DEBUG Constructing put subparser
+2014-08-17 16:02:41,361 DEBUG Constructing get subparser
+2014-08-17 16:02:41,367 INFO Searching testsnip from snippets.csv
+2014-08-17 16:02:41,367 DEBUG Found SNIPNAME: {} SNIPDATA: {}".format(line[0],line[1]
+2014-08-17 16:03:42,269 INFO Starting snippets
+2014-08-17 16:03:42,276 INFO Constructing Parser
+2014-08-17 16:03:42,277 DEBUG Constructing put subparser
+2014-08-17 16:03:42,278 DEBUG Constructing get subparser
+2014-08-17 16:03:42,279 INFO Searching tss from snippets.csv
+2014-08-17 16:03:42,279 DEBUG Snip SNIPNAME: {} not found".format(name)
+2014-08-17 16:05:47,590 INFO Starting snippets
+2014-08-17 16:05:47,590 INFO Constructing Parser
+2014-08-17 16:05:47,591 DEBUG Constructing put subparser
+2014-08-17 16:05:47,591 DEBUG Constructing get subparser
+2014-08-17 16:05:47,594 INFO Searching tss from snippets.csv
+2014-08-17 16:05:47,594 DEBUG Snip SNIPNAME: tss not found
+2014-08-17 16:06:56,246 INFO Starting snippets
+2014-08-17 16:06:56,251 INFO Constructing Parser
+2014-08-17 16:06:56,252 DEBUG Constructing put subparser
+2014-08-17 16:06:56,253 DEBUG Constructing get subparser
+2014-08-17 16:06:56,254 INFO Searching testsnip from snippets.csv
+2014-08-17 16:06:56,256 DEBUG Found SNIPNAME: 
+2014-08-17 16:07:32,103 INFO Starting snippets
+2014-08-17 16:07:32,104 INFO Constructing Parser
+2014-08-17 16:07:32,105 DEBUG Constructing put subparser
+2014-08-17 16:07:32,106 DEBUG Constructing get subparser
+2014-08-17 16:07:32,108 INFO Searching testsnip from snippets.csv
+2014-08-17 16:07:32,111 DEBUG Found SNIPNAME: testsnip SNIP: Today is Sunday
+2014-08-17 16:07:43,748 INFO Starting snippets
+2014-08-17 16:07:43,748 INFO Constructing Parser
+2014-08-17 16:07:43,749 DEBUG Constructing put subparser
+2014-08-17 16:07:43,750 DEBUG Constructing get subparser
+2014-08-17 16:07:52,266 INFO Starting snippets
+2014-08-17 16:07:52,266 INFO Constructing Parser
+2014-08-17 16:07:52,272 DEBUG Constructing put subparser
+2014-08-17 16:07:52,274 DEBUG Constructing get subparser
